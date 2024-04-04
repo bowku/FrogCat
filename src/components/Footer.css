@@ -1,0 +1,32 @@
+/* Header.css */
+.footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #41c1fd;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+}
+  
+
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .icon-container a {
+    margin: 0 40px;
+  }
+  
+  .icon-container img {
+    width: 30px; /* Adjust icon size as needed */
+    height: 30px; /* Adjust icon size as needed */
+  }
+  
+
+
+
+  
