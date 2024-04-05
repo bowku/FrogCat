@@ -12,7 +12,7 @@ import three from "../images/3.gif"
 import four from "../images/4.gif"
 import five from "../images/5.gif"
 import six from "../images/6.gif"
-import { Container, Row, Col, Carousel, Accordion, Button } from 'react-bootstrap';
+import { Container, Row, Col, Carousel, Accordion} from 'react-bootstrap';
 
 function Home() {
   const contractAddress = "6D7NaB2xsLd7cauWu1wKk6KBsJohJmP2qZH9GEfVi5Ui";
